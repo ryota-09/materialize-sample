@@ -2,7 +2,7 @@
   <div class="header">
       <!-- この部分はヘッダー -->
       <nav>
-        <div class="nav-wrapper blue lighten-1">
+        <div class="nav-wrapper orange lighten-3">
           <a href="#" class="brand-logo">Title</a>
           <!-- この部分がハンバーガーメニュー -->
           <a href="" class="sidenav-trigger" data-target="mobile-menu"></a>
