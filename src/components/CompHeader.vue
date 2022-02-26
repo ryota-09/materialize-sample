@@ -1,6 +1,5 @@
 <template>
   <div class="header">
-    <div class="container">
       <!-- この部分はヘッダー -->
       <nav>
         <div class="nav-wrapper blue lighten-1">
@@ -14,7 +13,6 @@
           </ul>
         </div>
       </nav>
-    </div>
   </div>
 </template>
 
@@ -24,4 +22,9 @@ import { Component, Vue } from "vue-property-decorator";
 export default class CompHeader extends Vue {}
 </script>
 
-<style scoped></style>
+<style scoped>
+.header{
+  background: url(/img/bakery-1868925_1920.jpg);
+  background-size: cover;
+}
+</style>
