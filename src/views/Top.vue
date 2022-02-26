@@ -20,6 +20,7 @@
         </div>
       </div>
       </section>
+        <CompParallax></CompParallax>
     </div>
   </div>
 </template>

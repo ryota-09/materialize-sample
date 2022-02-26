@@ -8,7 +8,7 @@
           <span class="card-title">Title</span>
           <a class="btn-floating halfway-fab waves-effect waves-light red accent-2 pulse"><i class="material-icons">favorite</i></a>
         </div>
-        <div class="card-content">
+        <div class="card-content ">
           <p>ここにテキストが入ります。</p>
         </div>
       </div>
