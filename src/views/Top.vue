@@ -21,6 +21,7 @@
       </div>
       </section>
         <CompParallax></CompParallax>
+      <CompForm></CompForm>
     </div>
   </div>
 </template>
@@ -33,6 +34,7 @@ import CompParallax from "@/components/CompParallax.vue";
 import CompTab from "@/components/CompTab.vue";
 import CompCard from "@/components/CompCard.vue";
 import CompFixedButton from "@/components/CompFixedButton.vue";
+import CompForm from "@/components/CompForm.vue";
 
 @Component({
   components: {
@@ -41,7 +43,8 @@ import CompFixedButton from "@/components/CompFixedButton.vue";
     CompParallax,
     CompTab,
     CompCard,
-    CompFixedButton
+    CompFixedButton,
+    CompForm
   },
 })
 export default class XXXComponent extends Vue {
